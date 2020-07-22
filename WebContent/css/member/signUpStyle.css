@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+#createform{
+   width: 700px;
+   margin: 300px auto;
+}
+
+label{
+   width: 120px;
+   float: left;
+}
+.eachDiv{
+   border:solid 2px;
+   border-bottom-width:0px; 
+
+}
+
+.second{
+   display: inline-block;
+   width: 500px;
+   border-left: solid 2px;
+}
+
+input{
+   margin-left: 2px;
+}
